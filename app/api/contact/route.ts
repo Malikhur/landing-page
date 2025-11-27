@@ -24,7 +24,7 @@ export async function POST(request: NextRequest) {
       replyTo: email,
       subject: `New Contact Form Submission from ${name}`,
       text: `
-New contact form submission from C-South Technologies website:
+New contact form submission from Csouth Technologies website:
 
 Name: ${name}
 Email: ${email}
@@ -108,17 +108,17 @@ This email was sent from the contact form at csouthint.com
     const msgToUser = {
       to: email,
       from: process.env.SENDGRID_FROM_EMAIL || "noreply@csouthint.com",
-      subject: "Thank you for contacting C-South Technologies",
+      subject: "Thank you for contacting Csouth Technologies",
       text: `
 Dear ${name},
 
-Thank you for reaching out to C-South Technologies. We have received your message and will respond within 24-48 hours.
+Thank you for reaching out to Csouth Technologies. We have received your message and will respond within 24-48 hours.
 
 Your message:
 "${message}"
 
 Best regards,
-C-South Technologies Team
+Csouth Technologies Team
 
 ---
 info@csouthint.com
@@ -140,7 +140,7 @@ https://csouthint.com
           <tr>
             <td style="padding: 30px 40px; background: linear-gradient(135deg, #1a6a8a 0%, #165a75 100%); text-align: center;">
               <h1 style="margin: 0; color: #ffffff; font-size: 24px; font-weight: 600;">
-                C-South Technologies
+                Csouth Technologies
               </h1>
             </td>
           </tr>
@@ -152,7 +152,7 @@ https://csouthint.com
                 Dear ${name},
               </p>
               <p style="margin: 0 0 20px 0; color: #e2e8f0; font-size: 15px; line-height: 1.6;">
-                Thank you for reaching out to C-South Technologies. We have received your message and will respond within 24-48 hours.
+                Thank you for reaching out to Csouth Technologies. We have received your message and will respond within 24-48 hours.
               </p>
               
               <div style="margin: 30px 0; padding: 20px; background-color: rgba(59, 163, 195, 0.1); border-radius: 8px; border-left: 3px solid #3ba3c3;">
@@ -162,7 +162,7 @@ https://csouthint.com
               
               <p style="margin: 0; color: #e2e8f0; font-size: 15px; line-height: 1.6;">
                 Best regards,<br>
-                <strong style="color: #ffffff;">C-South Technologies Team</strong>
+                <strong style="color: #ffffff;">Csouth Technologies Team</strong>
               </p>
             </td>
           </tr>
@@ -174,7 +174,7 @@ https://csouthint.com
                 <a href="mailto:info@csouthint.com" style="color: #5eb8d4; font-size: 14px; text-decoration: none;">info@csouthint.com</a>
               </p>
               <p style="margin: 0; color: #64748b; font-size: 12px;">
-                © 2025 C-South Technologies. All rights reserved.
+                © 2025 Csouth Technologies. All rights reserved.
               </p>
             </td>
           </tr>

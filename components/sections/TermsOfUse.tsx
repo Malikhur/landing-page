@@ -17,7 +17,7 @@ const termsSections = [
   {
     title: "Intellectual Property Rights",
     content:
-      "All content, logos, trademarks and design elements on this website are the property of C-South Technologies or its licensors. You may not reproduce, modify, distribute or exploit such content without our prior written consent.",
+      "All content, logos, trademarks and design elements on this website are the property of Csouth Technologies or its licensors. You may not reproduce, modify, distribute or exploit such content without our prior written consent.",
   },
   {
     title: "Third-Party Links",
@@ -32,7 +32,7 @@ const termsSections = [
   {
     title: "Limitation of Liability",
     content:
-      "In no event shall C-South Technologies or its affiliates be liable for any indirect, incidental, special, consequential or punitive damages arising out of your use of the website or any linked service, even if we have been advised of the possibility of such damages.",
+      "In no event shall Csouth Technologies or its affiliates be liable for any indirect, incidental, special, consequential or punitive damages arising out of your use of the website or any linked service, even if we have been advised of the possibility of such damages.",
   },
   {
     title: "Changes to Terms",

@@ -67,7 +67,7 @@ export default function Header() {
             <div className="relative w-10 h-10 md:w-12 md:h-12">
               <Image
                 src="/logo.png"
-                alt="C-South Technologies"
+                alt="Csouth Technologies"
                 fill
                 className="object-contain"
               />
@@ -76,7 +76,7 @@ export default function Header() {
               className="hidden sm:block text-lg md:text-xl font-semibold text-white"
               style={{ fontFamily: "var(--font-heading)" }}
             >
-              C-South Technologies
+              Csouth Technologies
             </span>
           </motion.div>
 

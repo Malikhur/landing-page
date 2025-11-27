@@ -110,7 +110,7 @@ export default function WhyCSouth() {
               backgroundClip: "text",
             }}
           >
-            Why C-South
+            Why Csouth
           </h2>
 
           <motion.p
@@ -119,7 +119,7 @@ export default function WhyCSouth() {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-base md:text-lg max-w-2xl mx-auto leading-relaxed text-slate-400"
           >
-            What makes C-South stand out as a technology partner.
+            What makes Csouth stand out as a technology partner.
           </motion.p>
         </motion.div>
 

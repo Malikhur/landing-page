@@ -78,7 +78,7 @@ export default function Footer() {
             >
               <Image
                 src="/logo.png"
-                alt="C-South Technologies"
+                alt="Csouth Technologies"
                 fill
                 className="object-contain"
               />
@@ -87,7 +87,7 @@ export default function Footer() {
               className="text-lg font-semibold text-white group-hover:text-[#5eb8d4] transition-colors duration-300"
               style={{ fontFamily: "var(--font-heading)" }}
             >
-              C-South Technologies
+              Csouth Technologies
             </span>
           </motion.div>
 

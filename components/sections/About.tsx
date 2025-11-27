@@ -106,7 +106,7 @@ export default function About() {
               backgroundClip: "text",
             }}
           >
-            About C-South Technologies
+            About Csouth Technologies
           </h2>
           
           <motion.p 
@@ -115,7 +115,7 @@ export default function About() {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-base md:text-lg lg:text-xl max-w-4xl mx-auto leading-relaxed text-slate-300"
           >
-            C-South Technologies is a U.S.-based digital innovation company specializing in modern software solutions for the automotive sector, inspection systems, workflow platforms, AI-assisted tools and secure cloud applications. We combine real industry experience with modern technology to deliver scalable, reliable and future-ready solutions.
+            Csouth Technologies is a U.S.-based digital innovation company specializing in modern software solutions for the automotive sector, inspection systems, workflow platforms, AI-assisted tools and secure cloud applications. We combine real industry experience with modern technology to deliver scalable, reliable and future-ready solutions.
           </motion.p>
         </motion.div>
 

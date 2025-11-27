@@ -157,7 +157,7 @@ export default function Hero() {
               />
               <Image
                 src="/logo.png"
-                alt="C-South Technologies Logo"
+                alt="Csouth Technologies Logo"
                 fill
                 priority
                 className="object-contain relative z-10 drop-shadow-2xl"
@@ -184,7 +184,7 @@ export default function Hero() {
                   backgroundClip: "text",
                 }}
               >
-                C-South
+                Csouth
               </span>
               <span 
                 className="block text-white mt-1 opacity-90"

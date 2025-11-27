@@ -7,12 +7,12 @@ const legalSections = [
   {
     title: "General Information",
     content:
-      "C-South Technologies is a U.S.-based technology development company focused on software engineering, inspection systems, workflow platforms, digital tools, cloud solutions, and high-level blockchain integrations. All information presented on this website is for general, informational purposes only and may change without notice.",
+      "Csouth Technologies is a U.S.-based technology development company focused on software engineering, inspection systems, workflow platforms, digital tools, cloud solutions, and high-level blockchain integrations. All information presented on this website is for general, informational purposes only and may change without notice.",
   },
   {
     title: "No Financial or Investment Services",
     content:
-      "C-South Technologies does not provide financial, investment, brokerage, trading, or advisory services. No part of this website should be interpreted as an offer to buy, sell, trade, or invest in any digital asset, token, cryptocurrency, or blockchain-related instrument.",
+      "Csouth Technologies does not provide financial, investment, brokerage, trading, or advisory services. No part of this website should be interpreted as an offer to buy, sell, trade, or invest in any digital asset, token, cryptocurrency, or blockchain-related instrument.",
   },
   {
     title: "Blockchain & Tokenization",
@@ -22,22 +22,22 @@ const legalSections = [
   {
     title: "Third-Party Platforms",
     content:
-      "Any third-party technologies mentioned are the property of their respective owners. C-South Technologies does not endorse or represent any external platform unless explicitly stated.",
+      "Any third-party technologies mentioned are the property of their respective owners. Csouth Technologies does not endorse or represent any external platform unless explicitly stated.",
   },
   {
     title: "No Guarantees or Warranties",
     content:
-      'All services and content provided by C-South Technologies are offered "as-is," without any warranties, express or implied. No outcomes, results, revenues or performance guarantees are expressed or implied.',
+      'All services and content provided by Csouth Technologies are offered "as-is," without any warranties, express or implied. No outcomes, results, revenues or performance guarantees are expressed or implied.',
   },
   {
     title: "Accuracy of Information",
     content:
-      "Although reasonable efforts are made to maintain accurate and updated content, C-South Technologies is not responsible for errors, outdated information, or omissions. Website content should not be considered professional, financial, legal or technical advice.",
+      "Although reasonable efforts are made to maintain accurate and updated content, Csouth Technologies is not responsible for errors, outdated information, or omissions. Website content should not be considered professional, financial, legal or technical advice.",
   },
   {
     title: "Limitation of Liability",
     content:
-      "C-South Technologies is not responsible for any damages, losses, or liabilities—direct or indirect—resulting from the use of this website or any services developed by third-party providers.",
+      "Csouth Technologies is not responsible for any damages, losses, or liabilities—direct or indirect—resulting from the use of this website or any services developed by third-party providers.",
   },
   {
     title: "Contact Information",

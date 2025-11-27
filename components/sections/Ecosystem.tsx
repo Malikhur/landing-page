@@ -155,7 +155,7 @@ export default function Ecosystem() {
             transition={{ duration: 0.6, delay: 0.3 }}
             className="text-base max-w-3xl mx-auto leading-relaxed text-slate-400"
           >
-            C-South operates a unified technology ecosystem that connects inspections, reconditioning
+            Csouth operates a unified technology ecosystem that connects inspections, reconditioning
             workflows, marketplaces and digital incentives.
           </motion.p>
         </motion.div>

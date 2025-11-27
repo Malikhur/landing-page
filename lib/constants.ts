@@ -5,11 +5,11 @@ export const NAV_ITEMS: NavItem[] = [
   { label: "About", href: "about" },
   { label: "Ecosystem", href: "ecosystem" },
   { label: "Services", href: "technologies" },
-  { label: "Why C-South", href: "why-csouth" },
+  { label: "Why Csouth", href: "why-csouth" },
 //   { label: "Contact", href: "contact" },
 ];
 
-export const COMPANY_NAME = "C-South Technologies";
+export const COMPANY_NAME = "Csouth Technologies";
 export const COMPANY_TAGLINE = "Building the Next Generation of Automotive & Digital Technology";
 export const CURRENT_YEAR = new Date().getFullYear();
 
