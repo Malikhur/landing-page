@@ -12,7 +12,7 @@ const products = [
     colorLight: "rgba(249, 115, 22, 0.15)",
     colorBorder: "rgba(249, 115, 22, 0.3)",
     logo: "/logos/ridesellers.png",
-    hasLogo: false, // No logo yet
+    hasLogo: true,
     description:
       "Digital automotive marketplace designed to connect independent inspections, dealer inventory and reconditioning data inside one ecosystem.",
   },
